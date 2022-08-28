@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ReachMe</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="add">Add Post</string>
+    <string name="notification">Notification</string>
+    <string name="profile">Profile</string>
+    <string name="aboutText">🙏𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐓𝐨 𝐌𝐲 𝐏𝐫𝐨𝐟𝐢𝐥𝐞🙏
+        🎂𝐖𝐢𝐬𝐡 𝐌𝐞 𝐨𝐦 𝟐𝟑 𝐍𝐨𝐯𝐞𝐦𝐛𝐞𝐫🎉
+        👉𝐅𝐢𝐬𝐭 𝐋𝐨𝐯𝐞: 💓 𝐌𝐨𝐦 🎉 𝐃𝐚𝐝💕
+        🎸𝐆𝐮𝐢𝐭𝐚𝐫 𝐋𝐨𝐯𝐞𝐫🎸 𝐂𝐫𝐢𝐜𝐤𝐞𝐭 𝐋𝐨𝐯𝐞𝐫</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

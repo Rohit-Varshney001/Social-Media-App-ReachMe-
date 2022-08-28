@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs xmlns:android="http://schemas.android.com/apk/res/android">
+    <tab
+        drawable="@drawable/ic_home_svgrepo_com"
+        text = "@string/home"/>
+
+    <tab
+        drawable="@drawable/ic_notifications_none_black_24dp"
+        text="@string/notification" />
+
+    <tab
+        drawable="@drawable/ic_add_circle_outline_black_24dp"
+        text="@string/add" />
+
+    <tab
+        drawable="@drawable/ic_magnifying_glass_svgrepo_com"
+        text="@string/search"/>
+
+    <tab
+        drawable="@drawable/ic_noun_user_829921"
+        text="@string/profile" />
+
+</tabs>
