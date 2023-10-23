@@ -45,7 +45,7 @@ This is a Socila Media Application for Android, here you can add stories, post s
 **Profile:-**
 
 <p align="center">
-  <img src="https://user-imagesgithubusercontent.com/98186477/187093712-c89b30b9-93ed-4980-9fc2-14d9116ee19b.jpg" width="200" height="400"   />
+  <img src="https://user-images.githubusercontent.com/98186477/187093712-c89b30b9-93ed-4980-9fc2-14d9116ee19b.jpg" width="200" height="400"   />
 </p>
 
 **Add Post:-**
