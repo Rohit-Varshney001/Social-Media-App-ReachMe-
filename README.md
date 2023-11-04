@@ -53,3 +53,9 @@ This is a Socila Media Application for Android, here you can add stories, post s
   <img src="https://user-images.githubusercontent.com/98186477/187093775-914f73a7-f5b4-4105-9f0d-047a1a291a7c.jpg" width="200" height="400"   />
 </p>
 
+<p align="center">
+  <b>Download and try the app from <i><a href = "https://drive.google.com/file/d/1mcxSpPAKGp3PC6p2id3bTPju0UWxTnId/view">Here</i></b>
+</p>
+
+
+
