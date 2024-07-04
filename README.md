@@ -2,6 +2,33 @@
 
 Welcome to ReachMe, a vibrant Social Media Application for Android designed to keep you connected with friends and share your moments effortlessly.
 
+## Description
+
+ReachMe is your go-to social media platform for staying connected with friends and sharing your favorite moments. Whether it's posting photos, adding stories, liking posts, or discovering new connections, ReachMe offers a seamless and intuitive user experience. With features like notifications, profile customization, and easy friend management, staying connected has never been easier. Download ReachMe today and start sharing your world with friends!
+
+## Features
+- **Login and Registration**: Securely login or register using email and password.
+- **Home Feed**: Scroll through posts, like and comment on your friends' updates.
+- **Stories**: Share your daily moments with your followers.
+- **Notifications**: Stay updated with likes, comments, and new friend requests.
+- **Profile**: Customize your profile with a bio, profile picture, and see your own posts.
+- **Add Friends**: Connect with friends by searching and sending friend requests.
+- **Add Posts**: Upload photos, share thoughts, and engage with your community.
+
+## Installation
+1. Download the APK file from the link below.
+2. Enable installation from unknown sources in your device settings.
+3. Install the app and start connecting with friends!
+
+## Contributing
+Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
+
+## License
+This project is licensed under the [MIT License](LICENSE).
+
+## Contact
+For any questions or feedback, feel free to contact me at [rohit.varshney.glau@gmail.com](mailto:rohit.varshney.glau@gmail.com).
+
 ## Screenshots
 
 ### Login Page
@@ -50,29 +77,3 @@ Welcome to ReachMe, a vibrant Social Media Application for Android designed to k
   <b>Download and try the app from <a href="https://drive.google.com/file/d/1mcxSpPAKGp3PC6p2id3bTPju0UWxTnId/view">Here</a></b>
 </p>
 
-## Description
-
-ReachMe is your go-to social media platform for staying connected with friends and sharing your favorite moments. Whether it's posting photos, adding stories, liking posts, or discovering new connections, ReachMe offers a seamless and intuitive user experience. With features like notifications, profile customization, and easy friend management, staying connected has never been easier. Download ReachMe today and start sharing your world with friends!
-
-## Features
-- **Login and Registration**: Securely login or register using email and password.
-- **Home Feed**: Scroll through posts, like and comment on your friends' updates.
-- **Stories**: Share your daily moments with your followers.
-- **Notifications**: Stay updated with likes, comments, and new friend requests.
-- **Profile**: Customize your profile with a bio, profile picture, and see your own posts.
-- **Add Friends**: Connect with friends by searching and sending friend requests.
-- **Add Posts**: Upload photos, share thoughts, and engage with your community.
-
-## Installation
-1. Download the APK file from the link above.
-2. Enable installation from unknown sources in your device settings.
-3. Install the app and start connecting with friends!
-
-## Contributing
-Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
-
-## Contact
-For any questions or feedback, feel free to contact me at [your-email@example.com](mailto:your-email@example.com).
